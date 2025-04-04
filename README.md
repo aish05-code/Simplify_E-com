@@ -13,7 +13,6 @@ A simple e-commerce product listing mobile application built with **React Native
 - **Cart Management**: Stores selected products in the cart using AsyncStorage and calculates the total price dynamically.  
 - **Wishlist Feature**: Allows users to add or remove items from the wishlist.  
 - **Search & Filtering**: Provides real-time search and category-based filtering.  
-- **Product Preview Modal**: Supports long-press on a product to show a quick preview without navigating to another screen.  
 - **Navigation**: Implemented using React Navigation for seamless transitions between screens.  
 
 ## Tech Stack  
@@ -23,6 +22,8 @@ A simple e-commerce product listing mobile application built with **React Native
 - **Context API** for state management  
 - **AsyncStorage** for persistent cart data  
 - **FakeStore API** for dynamic product data  
+
+[Download Demo Video](./demo.mp4)
 
 ## Installation & Setup  
 
