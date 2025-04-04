@@ -30,7 +30,7 @@ A simple e-commerce product listing mobile application built with **React Native
 1. **Clone the repository**  
    ```sh  
    git clone https://github.com/aish05-code/Simplify_E-com.git  
-   cd ecommerce-app  
+   cd Simplify_E-com 
    ```  
 
 2. **Install dependencies**  
